@@ -1,0 +1,13 @@
+Il bloque les appels et les SMS indésirables sans remplacer votre application d'appel/SMS par défaut.
+
+Filtres :
+
+1. Règle Regex (d'expression régulière) pour le numéro et le contenu des SMS.
+2. Contact
+3. Attestation STIR
+4. Appel répété
+5. Numéro composé
+6. Applications récemment utilisées
+7. Calendrier
+
+Details: https://github.com/aj3423/SpamBlocker
